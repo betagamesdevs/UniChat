@@ -1,11 +1,6 @@
 # UniChat
 
-Concept art view :
-![image](https://github.com/HugoTby/UniChat/assets/97984737/a52f31a4-abbb-4ebd-882f-a37b6bdc3824)
-
-Actual development view :
-![image](https://github.com/HugoTby/UniChat/assets/97984737/a391bd53-7614-46e4-bd4f-d98e8eb04d2b)
+UniChat, votre outil de communication dédié à l'éducation !
 
 
-Website - UniChat Update Service view :
-![image](https://github.com/HugoTby/UniChat/assets/97984737/f7fc8138-8b16-4ec8-b9fb-47ba44819d99)
+Facilitez les échanges et la collaboration au sein de votre classe avec UniChat, le logiciel de communication conçu spécialement pour les écoles. Que vous soyez enseignant ou étudiant, UniChat offre une plateforme sécurisée et conviviale pour interagir, partager des idées et travailler en équipe.
